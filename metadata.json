@@ -1,0 +1,6 @@
+{
+  "name": "IHR Limited",
+  "description": "Contemporary luxury fashion and ready-to-wear clothing brand featuring architectural tailoring, fine knitwear, and curated modern essentials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
